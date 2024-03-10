@@ -24,7 +24,7 @@
 </details>
 
 <details>
-<summary>글 조회</summary>
+<summary>글 목록 조회</summary>
 <div markdown="2">
   
 ![articles](https://github.com/pse10307/blog/assets/109071820/9c067929-bf7f-449a-ba8c-9993e84a4914)
@@ -40,7 +40,7 @@
 </details>
 
 <details>
-<summary>글 목록 조회</summary>
+<summary>글 조회</summary>
 <div markdown="4">
   
 ![articles-조회](https://github.com/pse10307/blog/assets/109071820/ab58fcf9-8348-4fb9-a4e5-a5200cd3dea4)
